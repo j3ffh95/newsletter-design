@@ -13,3 +13,12 @@ body {
   height: 100vh;
   margin: 0;
 }
+
+.box {
+  background: #fff;
+}
+
+.box img {
+  width: 400px;
+  max-width: 100%;
+}
